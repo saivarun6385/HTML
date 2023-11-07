@@ -1,0 +1,21 @@
+html{
+    background-color: rgb(20, 20, 20);
+}
+body{
+    color: antiquewhite;
+}
+a{
+    color: rgb(26, 137, 235);
+}
+a:hover , a:active{
+    color: darkgreen;
+}
+table, th, td{
+    border: 1px solid rgb(234, 226, 226);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+legend{
+    text-align: center;
+}
